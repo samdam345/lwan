@@ -18,10 +18,9 @@ Build status
 Building
 --------
 
-Before installing Lwan, ensure all dependencies are installed. All of them
-are common dependencies found in any GNU/Linux distribution; package names
-will be different, but it shouldn't be difficult to search using whatever
-package management tool that's used by your distribution.
+Ensure installing all dependencies before installing Lwan. 
+All the dependencies can be found in any GNU/Linux distribution. 
+The package name is different. Use package management tool to search the package names in the distribution is not difficult.
 
 ### Required dependencies
 
